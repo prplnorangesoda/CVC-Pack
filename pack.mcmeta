@@ -74,16 +74,5 @@
 				"color": "yellow"
 			}
 		]
-	},
-	"overlays": {
-		"entries": [
-			{
-				"directory": "overlays/1.20.2",
-				"supported_formats": {
-					"min_inclusive": 18,
-					"max_inclusive": 31
-				}
-			}
-		]
 	}
 }
