@@ -21,57 +21,14 @@
 				"color": "white"
 			},
 			{
-				"text": "v0.0.0",
+				"text": "v1.0.0",
 				"color": "green"
 			},
 			"\n",
 			{
-				"text": "銄",
-				"color": "red"
-			},
-			{
-				"text": "銆",
-				"color": "#fe3f95"
-			},
-			{
-				"text": "銈",
-				"color": "#fe3fec"
-			},
-			{
-				"text": "銊",
-				"color": "#b83ffe"
-			},
-			{
-				"text": "銍",
-				"color": "#613ffe"
-			},
-			{
-				"text": "銎",
-				"color": "#3f73c9"
-			},
-			{
-				"text": "銏",
-				"color": "#3fc973"
-			},
-			{
-				"text": "銔",
-				"color": "#3ffe61"
-			},
-			{
-				"text": "銘",
-				"color": "#3ffeb8"
-			},
-			{
-				"text": "銜",
-				"color": "#50feec"
-			},
-			{
-				"text": "銟",
-				"color": "#a7fe95"
-			},
-			{
-				"text": "銌",
-				"color": "yellow"
+				"text": "(Shop Menu Included) ",
+				"color": "yellow",
+				"italic": "true"
 			}
 		]
 	}
